@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/p7Kasa/static/css/main.073c9b0a.css",
+    "main.js": "/p7Kasa/static/js/main.692be95a.js",
+    "static/js/787.0ce615c0.chunk.js": "/p7Kasa/static/js/787.0ce615c0.chunk.js",
+    "static/media/db.gif": "/p7Kasa/static/media/db.f5292684e800f4fd1e83.gif",
+    "index.html": "/p7Kasa/index.html",
+    "main.073c9b0a.css.map": "/p7Kasa/static/css/main.073c9b0a.css.map",
+    "main.692be95a.js.map": "/p7Kasa/static/js/main.692be95a.js.map",
+    "787.0ce615c0.chunk.js.map": "/p7Kasa/static/js/787.0ce615c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.692be95a.js"
+  ]
+}
